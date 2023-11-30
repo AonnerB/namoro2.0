@@ -6,9 +6,15 @@
   box-sizing: border-box;
 }
 
-:root {
-  --dark-color: #000;
-}
+body{
+  background-image: url(../img/NoiteEstrelada.jpeg);
+  background-repeat:no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  margin: 0%;
+  padding: 0%;
+} 
 
 body {
   display: flex;
